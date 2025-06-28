@@ -2,7 +2,7 @@
 
 A powerful Streamlit-based web app that provides deep insights into your WhatsApp chats. Upload your chat file and visualize key metrics, patterns, and behaviors — all in one click.
 
-🔗 [Live Demo on Streamlit Cloud](https://whatsapp-chat-analyzer-0.streamlit.app/)  
+🔗 [Live Demo on Streamlit Cloud](https://whatsapp-chat-analyzer-0.streamlit.app)  
 
 ---
 
